@@ -25,7 +25,7 @@ description: 从一个人已有的真实内容素材（文章、口述稿、课�
 ## 文件结构
 
 - `SKILL.md`（本文件）：原则、流程、输出模板、自检清单
-- `references/materials.md`：素材的四个属性、材料类型速查、加工痕迹判定 —— 第 1 步用
+- `references/materials.md`：素材的四个属性、材料类型速查 —— 第 1 步用
 - `references/dimensions.md`：各维度的判定方法 —— 第 3 步用
 
 执行时按需加载，不必一次读完。
